@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "Concepts"
-teaching: 10
+teaching: 5
 exercises: 0
 questions:
   - "What are unit tests, regression tests, and integration tests?"

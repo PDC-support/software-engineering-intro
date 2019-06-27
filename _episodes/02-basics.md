@@ -2,7 +2,7 @@
 layout: episode
 title: Basics
 teaching: 15
-exercises: 20
+exercises: 15
 questions:
   - What is Git?
   - What is a repository?
