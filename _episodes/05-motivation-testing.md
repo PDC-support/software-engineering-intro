@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Motivation"
+title: "Motivation for testing"
 teaching: 10
 exercises: 0
 questions:
