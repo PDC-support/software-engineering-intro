@@ -81,14 +81,6 @@ mylib-1.3.3_wk_13.8.08.tgz      somecode-20.7.09.tgz
 - When you find a bug, how do you know when precisely this bug was introduced
   (are published results affected? do you need to inform collaborators or users of your code?).
 
-
-### Compare with Dropbox or Google Drive
-
-- Document/code is in one place, no need to email snapshots.
-- How can you use an old version? Possible to get old versions but in a much less useful way - snapshots of files, not directories.
-- What if you want to work on multiple versions at the same time? Do you make a copy? How do you merge copies?
-- What if you don't have internet?
-
 ---
 
 ## We will use [Git](https://git-scm.com) to record snapshots of our work - why Git?
@@ -138,7 +130,7 @@ mylib-1.3.3_wk_13.8.08.tgz      somecode-20.7.09.tgz
 ## Demo
 
 We start with an
-[existing repository](https://github.com/coderefinery/example-project)
+[existing repository](https://github.com/wikfeldt/example-project)
 that contains a couple of commits and two
 branches with some easy code.
 
@@ -146,17 +138,17 @@ The project contains several obvious issues (bug in code,
 typo in documentation, missing license file, outdated usage example).
 
 - History
-  - Explore the [repository](https://github.com/coderefinery/example-project).
-  - Explore the [history](https://github.com/coderefinery/example-project/commits/master).
+  - Explore the [repository](https://github.com/wikfeldt/example-project).
+  - Explore the [history](https://github.com/wikfeldt/example-project/commits/master).
   - Browse commit changesets.
-  - Note that there are [branches](https://github.com/coderefinery/example-project/network).
+  - Note that there are [branches](https://github.com/wikfeldt/example-project/network).
 - Reproducibility
   - Find a bug in
-    [example.py](https://github.com/coderefinery/example-project/blob/master/example.py)
+    [example.py](https://github.com/wikfeldt/example-project/blob/master/example.py)
     and use annotation to check when precisely the bug got introduced.
   - Discuss the enormous value of the annotation feature.
 - Collaboration
-  - You can refer to [code portions](https://github.com/coderefinery/example-project/blob/master/example.py#L18-L19)
+  - You can refer to [code portions](https://github.com/wikfeldt/example-project/blob/master/example.py#L18-L19)
     (so much simpler to send a link rather than describe which file to open and where to scroll to).
   - Identify other issues (bug in code, misleading comment, typo in
     documentation, missing license file, outdated usage example).
@@ -165,11 +157,11 @@ typo in documentation, missing license file, outdated usage example).
     (the presenter) will do one change on the screen. Also experienced participants
     can already join.
   - Make a merge request (it's easy in browser, and shows cool stuff).
-  - Browse the [network](https://github.com/coderefinery/example-project/network).
-  - See [contributors](https://github.com/coderefinery/example-project/graphs/contributors).
+  - Browse the [network](https://github.com/wikfeldt/example-project/network).
+  - See [contributors](https://github.com/wikfeldt/example-project/graphs/contributors).
 - Releases
-  - Explore the [history](https://github.com/coderefinery/example-project/commits/master) again.
-  - Create a [release](https://github.com/coderefinery/example-project/releases).
+  - Explore the [history](https://github.com/wikfeldt/example-project/commits/master) again.
+  - Create a [release](https://github.com/wikfeldt/example-project/releases).
 
 While some of these are GitHub features, it all can be done on other sites, or
 by yourself without GitHub at all.
