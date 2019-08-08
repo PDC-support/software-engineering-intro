@@ -8,6 +8,11 @@ permalink: /
 In this lesson we will introduce important aspects of software engineering, specifically
 version control with Git and testing.
 
+This material is based on two [CodeRefinery](https://coderefinery.org/) 
+lessons:
+- [Introduction to version control](https://coderefinery.github.io/git-intro/)
+- [Automated testing](https://coderefinery.github.io/testing/)
+
 ## Version control
 
 In this part of the lesson we will see why everyone should be using version control,
