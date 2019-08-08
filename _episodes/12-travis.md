@@ -13,7 +13,7 @@ keypoints:
 
 ## Type-along: automatizing tests
 
-In this exercise, we will push an example repository to Github and set up
+In this exercise, we will create an example repository to Github and set up
 automated testing for it in the cloud.  
 
 We will simulate a collaborative workflow where you find
@@ -116,7 +116,7 @@ our own.
 ### Step 7: Create a new `bugfix` branch
 
 Now you know the drill. A good practice is to name branches using your
-name/username, e.g. `alice/bugfix`. 
+name or username, e.g. `alice/bugfix`. 
 
 If you want to fix issues in other people's repositories that you don't 
 have write access to (or vice versa), you would instead start by 
@@ -130,7 +130,7 @@ commit the following commit message "restore function subtract; fixes #1" (assum
 Once the pull request is accepted/merged, this will autoclose the issue since GitHub will recognize the "fixes #1" in the commit message, see also
 [closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/).
 
-Then push your new branch..
+Then push your new branch.
 
 
 ### Step 9: File a pull request
@@ -148,7 +148,7 @@ how Travis automatically tested the code.
 Observe how accepting the pull request automatically closes the issue (provided
 the commit message contained the correct issue number).
 
-Discuss whether this is a useful feature. And if it is, why do you think is it useful?
+Discuss whether this is a useful feature. And if it is, why do you think it is useful?
 
 
 ### Step 11: Discussion
