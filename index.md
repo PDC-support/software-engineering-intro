@@ -32,13 +32,14 @@ If you are using the virtual machine provided to you at the summer school, you w
 need to consider point 2 below.
 
 1. You need to have Git installed (see [here for installation instructions](https://coderefinery.github.io/installation/git/)).
-2. You need a [GitHub](https://github.com) account.
-3. You will also need a [Travis CI](https://travis-ci.org) account
+2. You need to configure Git (see [here](https://coderefinery.github.io/installation/git/#configuring-git)).
+3. You need a [GitHub](https://github.com) account.
+4. You will also need a [Travis CI](https://travis-ci.org) account
    but you can sign into it with
    your [GitHub](https://github.com) account.
-4. You need to have Python installed (we recommend 
+5. You need to have Python installed (we recommend 
    [Anaconda](https://www.anaconda.com/distribution/) or 
    [Miniconda](https://docs.conda.io/en/latest/miniconda.html)).
-5. You need the Python package [pytest](https://docs.pytest.org/en/latest/getting-started.html).
+6. You need the Python package [pytest](https://docs.pytest.org/en/latest/getting-started.html).
 
 
