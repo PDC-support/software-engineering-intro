@@ -39,7 +39,8 @@ need to consider point 2 below.
    your [GitHub](https://github.com) account.
 5. You need to have Python installed (we recommend 
    [Anaconda](https://www.anaconda.com/distribution/) or 
-   [Miniconda](https://docs.conda.io/en/latest/miniconda.html)).
+   [Miniconda](https://docs.conda.io/en/latest/miniconda.html), see 
+   [here for installation instructions](https://coderefinery.github.io/installation/python/)).
 6. You need the Python package [pytest](https://docs.pytest.org/en/latest/getting-started.html).
 
 
