@@ -160,5 +160,6 @@ We discuss together about our experiences with this exercise.
 ## Where to go from here
 
 - On Travis you can also test macOS builds: https://docs.travis-ci.com/user/reference/osx/
+- GitHub just launched a [new CI/CD service][https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/] which is free for public repos
 - On GitLab use [GitLab CI](https://about.gitlab.com/product/continuous-integration/)
 - For Windows builds use [Appveyor](https://www.appveyor.com)
